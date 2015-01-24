@@ -22,7 +22,7 @@ part(a)
 
 Part(b)
 git add hw1q2b.cpp
-git commit
+git commit -m "hw1q2b"
 git push
 git log
 
